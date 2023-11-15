@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295358101336",
+    "project_id": "bookapp-lani",
+    "storage_bucket": "bookapp-lani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295358101336:android:f21fdf0ebd759a7a69d72d",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBRkfVaBWpeSVFC_Y8u_SmituR_CW3oTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
