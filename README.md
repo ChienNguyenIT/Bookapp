@@ -12,7 +12,6 @@ Welcome to the Book App for Android! This application allows users to discover a
 
 ## Screenshots
 ![Screenshot 1](https://github.com/ChienNguyenIT/Bookapp/assets/127098641/cda14490-12b4-483e-a421-5f9b9df071eb)
-![Screenshot 2](https://github.com/ChienNguyenIT/Bookapp/assets/127098641/d373d65d-879a-41da-aa42-734eaccde971)
 
 ## Getting Started
 
