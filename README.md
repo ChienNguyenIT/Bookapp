@@ -20,7 +20,7 @@ Follow these steps to set up and run the app on your Android device:
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/ChienNguyenIT/Bookap
+   git clone https://github.com/ChienNguyenIT/Bookapp
 
 1.Open the project in Android Studio.
 
